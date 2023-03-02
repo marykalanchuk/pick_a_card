@@ -1,1 +1,1 @@
-A program selects a random card from a 52-card deck
+Программа,которая  выбирает случайную карту из колоды 52 карты.
